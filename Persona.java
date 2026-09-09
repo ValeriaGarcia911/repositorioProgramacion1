@@ -3,5 +3,5 @@ public class Persona {
     private String edad;
     private String id;
     private double estatura;
-    private String correoElectronico;
+
 }
